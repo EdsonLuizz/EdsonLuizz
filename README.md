@@ -1,9 +1,9 @@
 ## Olá!! Eu sou EdsonLuizz!!
 
-- 🌱 Estudante de Sistemas de Informação 
-- 🌱 Front-end e Back-end
-- 🚀 A procura de um estágio ou um emprego definitivo
-- 📫 Contate-me no email: edson_junior2002@hotmail.com
+-  Estudante de Sistemas de Informação - UNIRIO (3/8) 
+-  Desenvolvedor Junior de Front-end e Back-end
+-  A procura de um estágio ou um emprego definitivo
+-  Contate-me no email: edson_junior2002@hotmail.com
 
 
 ##
