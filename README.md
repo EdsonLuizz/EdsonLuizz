@@ -22,7 +22,7 @@
 
 ##
 
- ![Snake animation](https://github.com/EdsonLuizz/EdsonLuizz/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
