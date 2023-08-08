@@ -3,7 +3,7 @@
 - 📚 Estudando linguagens de programação com foco em linguagens de back-end
 - 👩🏿‍💻 Dev Jr
 - 🎒 (S.I / I.S) - Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
-- 📫 Email: jedso885@gmail.com
+- 📫 Email: jedson885@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonLuizz&count_private=true&show_icons=true&theme=blue_navy)
 
