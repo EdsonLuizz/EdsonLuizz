@@ -6,6 +6,7 @@
 - 📫 Email: jedso885@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonLuizz&count_private=true&show_icons=true&theme=blue_navy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLuizz&layout=compact&theme=blue_navy)](https://github.com/EdsonLuizz/github-readme-stats)
 
 
